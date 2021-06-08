@@ -20,7 +20,7 @@
 #define MIN_FOOTER_LENGTH	300
 #define MIN_BUCKET_LENGTH	100
 
-#define PT226x_SYNC_MIN		4500
+#define PT226x_SYNC_MIN		3500
 
 /*
  * sync constants
